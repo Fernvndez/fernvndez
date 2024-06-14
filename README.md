@@ -17,7 +17,7 @@
 - **Idade:** 19 anos
 - **Localização:** São Paulo, Brasil
 - **Faculdade** Gestão da Tecnologia da Informação, Senac
-- **Trabalho:** Analista de Suporte Técnico de TI na <span style="color: yellow;">Ambev Tech</span> 🌐
+- **Trabalho:** It Analyst Technic na <span style="color: yellow;">Ambev Tech</span> 🌐
 
 <div align="center"> <!-- Centraliza o conteúdo -->
   <img src=https://vagas.byintera.com/wp-content/uploads/2023/03/Ativo-3.png alt="Logo da Ambev Tech" width="180" style="margin-top: 20px;"> <!-- Ajuste o valor de margin-top conforme necessário -->
