@@ -23,6 +23,12 @@
   <img src=https://vagas.byintera.com/wp-content/uploads/2023/03/Ativo-3.png alt="Logo da Ambev Tech" width="180" style="margin-top: 20px;"> <!-- Ajuste o valor de margin-top conforme necessário -->
 </div>
 
+## Currículo
+
+Você pode visualizar meu currículo completo clicando no link abaixo:
+
+[Abrir PDF do Currículo](https://pdf.ac/1BNvTP)
+
 ## Conecte-se Comigo
 
 <div> 
