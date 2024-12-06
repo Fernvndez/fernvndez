@@ -9,7 +9,7 @@
   
 ## Sobre Mim
 
-- **Nome:** Leonardo Fernandez de Souza Sales
+- **Nome:** Leonardo Fernandez
 - **Idade:** 19 anos
 - **Localização:** São Paulo, Brasil
 - **Faculdade** Gestão da Tecnologia da Informação, Senac
