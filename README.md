@@ -1,35 +1,75 @@
-## Olá! Eu sou o Leonardo "Fernvndez" 🖐🏻!
+# Leonardo "Fernvndez" 👨‍💻
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+<div align="center">
   
-## Sobre Mim
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&random=false&width=435&lines=IT+Analyst+at+Ambev+Tech;Full+Stack+Developer;Always+learning+new+technologies)](https://git.io/typing-svg)
 
-- **Nome:** Leonardo Fernandez
-- **Idade:** 19 anos
-- **Localização:** São Paulo, Brasil
-- **Faculdade** Gestão da Tecnologia da Informação, Senac
-- **Trabalho:** It Analyst Technical na <span style="color: yellow;">Ambev Tech</span> 🍺
-
-<div align="center"> <!-- Centraliza o conteúdo -->
-  <img src=https://vagas.byintera.com/wp-content/uploads/2023/03/Ativo-3.png alt="Logo da Ambev Tech" width="180" style="margin-top: 20px;"> <!-- Ajuste o valor de margin-top conforme necessário -->
 </div>
 
-## Currículo
+## 🚀 Tech Stack
 
-Você pode visualizar meu currículo completo clicando no link abaixo:
+<div align="center">
+  
+| Frontend | Backend | Database | Tools |
+|----------|---------|----------|-------|
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
 
-[Abrir PDF do Currículo](https://pdf.ac/1BNvTP)
-
-## Conecte-se Comigo
-
-<div> 
-  <a href = "mailto:leonardofernandezcontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardofernandezss" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+## 👨‍💼 About Me
+
+```javascript
+const leonardo = {
+    name: "Leonardo Fernandez",
+    age: 19,
+    location: "São Paulo, Brazil",
+    education: {
+        course: "Information Technology Management",
+        institution: "Senac",
+        status: "Ongoing"
+    },
+    work: {
+        position: "IT Technical Analyst",
+        company: "Ambev Tech",
+        emoji: "🍺"
+    }
+};
+```
+
+<div align="center">
+  <img src="https://vagas.byintera.com/wp-content/uploads/2023/03/Ativo-3.png" alt="Ambev Tech Logo" width="180">
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fernvndo&theme=dark)](https://git.io/streak-stats)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernvndo&layout=compact&theme=dark)
+
+</div>
+
+## 📄 Resume
+
+View my complete resume here: [Open Resume PDF](https://pdf.ac/1BNvTP)
+
+## 🤝 Connect With Me
+
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardofernandezcontato@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardofernandezss)
+
+</div>
+
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Fernvndo&color=brightgreen)
+  
+*"The only way to do great work is to love what you do."* - Steve Jobs
 
 </div>
