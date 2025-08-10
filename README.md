@@ -1,9 +1,4 @@
 # Leonardo "Fernvndez" 👨‍💻
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&random=false&width=435&lines=IT+Analyst+at+Omie;Full+Stack+Developer;Always+learning+new+technologies)](https://git.io/typing-svg)
-
 </div>
 
 ## 🚀 Tech Stack
@@ -37,9 +32,6 @@ const leonardo = {
 };
 ```
 
-<div align="center">
-  <img src="https://vagas.byintera.com/wp-content/uploads/2023/03/Ativo-3.png" alt="Ambev Tech Logo" width="180">
-</div>
 
 ## 📊 GitHub Stats
 
@@ -50,10 +42,6 @@ const leonardo = {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernvndo&layout=compact&theme=dark)
 
 </div>
-
-## 📄 Resume
-
-View my complete resume here: [Open Resume PDF](https://pdf.ac/1BNvTP)
 
 ## 🤝 Connect With Me
 
@@ -70,6 +58,6 @@ View my complete resume here: [Open Resume PDF](https://pdf.ac/1BNvTP)
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Fernvndo&color=brightgreen)
   
-*"The only way to do great work is to love what you do."* - Steve Jobs
+*"No buraco da agulha, eu serei o camelo."*
 
 </div>
