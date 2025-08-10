@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&random=false&width=435&lines=IT+Analyst+at+Ambev+Tech;Full+Stack+Developer;Always+learning+new+technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&random=false&width=435&lines=IT+Analyst+at+Omie;Full+Stack+Developer;Always+learning+new+technologies)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,7 +22,7 @@
 ```javascript
 const leonardo = {
     name: "Leonardo Fernandez",
-    age: 19,
+    age: 20,
     location: "São Paulo, Brazil",
     education: {
         course: "Information Technology Management",
@@ -31,8 +31,8 @@ const leonardo = {
     },
     work: {
         position: "IT Technical Analyst",
-        company: "Ambev Tech",
-        emoji: "🍺"
+        company: "Omie",
+        emoji: "🩵"
     }
 };
 ```
