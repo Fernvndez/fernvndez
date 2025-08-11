@@ -16,7 +16,7 @@
 
 ```javascript
 const leonardo = {
-    name: "Leonardo Fernandez",
+    name: "Leonardo Sales",
     age: 20,
     location: "São Paulo, Brazil",
     education: {
