@@ -32,6 +32,9 @@ For me, technology is ultimately about people about simplifying processes, creat
 <img align="left" alt="Figma" title="Figma" width="30px" style="padding-right: 10px;" src="https://icon.icepanel.io/Technology/svg/Figma.svg"/>
 
 <br clear="left"/>
+<br clear="left"/>
+
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fernvndez&layout=compact&theme=dracula)
 
 ## 🤝 Connect With Me
   
