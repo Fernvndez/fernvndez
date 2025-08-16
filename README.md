@@ -11,11 +11,27 @@ For me, technology is ultimately about people about simplifying processes, creat
 
 ## Languages and Tools:
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://icon.icepanel.io/Technology/svg/HTML5.svg"/> 
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://icon.icepanel.io/Technology/svg/CSS3.svg"/> 
+<img align="left" alt="Tailwind CSS" title="Tailwind CSS " width="30px" style="padding-right: 10px;" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg"/> 
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"/> 
+<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png"/>
+<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png"/> 
+<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://icon.icepanel.io/Technology/svg/Node.js.svg"/> 
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/128/226/226777.png"/> 
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png"/> 
+<img align="left" alt="Flask" title="Flask" width="30px" style="padding-right: 10px;" src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png"/> 
+<img align="left" alt="Django" title="Django" width="30px" style="padding-right: 10px;" src="https://icon.icepanel.io/Technology/png-shadow-512/Django.png"/> 
+<img align="left" alt="Selenium" title="Selenium" width="30px" style="padding-right: 10px;" src="https://icon.icepanel.io/Technology/svg/Selenium.svg"/> 
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png"/> 
+<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/128/919/919853.png"/> 
+<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/128/226/226772.png"/> 
+<img align="left" alt="Insomnia" title="Insomnia" width="30px" style="padding-right: 10px;" src="https://icon.icepanel.io/Technology/svg/Insomnia.svg"/>
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://icon.icepanel.io/Technology/svg/Git.svg"/>
+<img align="left" alt="Canva" title="Canva" width="30px" style="padding-right: 10px;" src="https://icon.icepanel.io/Technology/svg/Canva.svg"/>
+<img align="left" alt="Figma" title="Figma" width="30px" style="padding-right: 10px;" src="https://icon.icepanel.io/Technology/svg/Figma.svg"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernvndez&layout=compact&theme=dark)
-
-
+<br clear="left"/>
 
 ## 🤝 Connect With Me
   
