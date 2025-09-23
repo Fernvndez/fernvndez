@@ -11,25 +11,16 @@ For me, technology is ultimately about people about simplifying processes, creat
 
 ## Languages and Tools:
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://icon.icepanel.io/Technology/svg/HTML5.svg"/> 
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://icon.icepanel.io/Technology/svg/CSS3.svg"/> 
-<img align="left" alt="Tailwind CSS" title="Tailwind CSS " width="30px" style="padding-right: 10px;" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg"/> 
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"/> 
-<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png"/>
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png"/> 
 <img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://icon.icepanel.io/Technology/svg/Node.js.svg"/> 
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/128/226/226777.png"/> 
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png"/> 
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png"/>
+<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://icon.icepanel.io/Technology/svg/PHP.svg"/> 
 <img align="left" alt="Flask" title="Flask" width="30px" style="padding-right: 10px;" src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png"/> 
-<img align="left" alt="Django" title="Django" width="30px" style="padding-right: 10px;" src="https://icon.icepanel.io/Technology/png-shadow-512/Django.png"/> 
-<img align="left" alt="Selenium" title="Selenium" width="30px" style="padding-right: 10px;" src="https://icon.icepanel.io/Technology/svg/Selenium.svg"/> 
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png"/> 
 <img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/128/919/919853.png"/> 
 <img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/128/226/226772.png"/> 
 <img align="left" alt="Insomnia" title="Insomnia" width="30px" style="padding-right: 10px;" src="https://icon.icepanel.io/Technology/svg/Insomnia.svg"/>
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://icon.icepanel.io/Technology/svg/Git.svg"/>
-<img align="left" alt="Canva" title="Canva" width="30px" style="padding-right: 10px;" src="https://icon.icepanel.io/Technology/svg/Canva.svg"/>
-<img align="left" alt="Figma" title="Figma" width="30px" style="padding-right: 10px;" src="https://icon.icepanel.io/Technology/svg/Figma.svg"/>
 
 <br clear="left"/>
 <br clear="left"/>
