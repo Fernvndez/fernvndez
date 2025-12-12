@@ -10,7 +10,7 @@ func GetCurrentWorkPosition() map[string]string {
 }
 
 func GetDegree() string {
-	return "Bachelors Degree in Computer Science / 2021"
+	return "Technologist Degree in IT Management / 2025"
 }
 
 func GetDailyKnowledge() []string {
