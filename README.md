@@ -17,11 +17,8 @@ func GetDailyKnowledge() []string {
 	return []string{
 		"GoLang",
 		"Python",
-		"AWS - Amazon Web Services",
-		"Kafka",
-		"Terraform",
-		"MongoDB",
-		"AuroraDB",
+		"PostgreSQL",
+		"Postman",
 		"Docker",
 	}
 }
