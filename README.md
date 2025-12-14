@@ -19,7 +19,7 @@ func GetDailyKnowledge() []string {
 		"Python",
 		"PostgreSQL",
 		"Postman",
-		"Docker",
+		"Docker",,
 	}
 }
 
